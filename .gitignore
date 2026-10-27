@@ -1,0 +1,4 @@
+.local-data/
+output/
+node_modules/
+*.log
